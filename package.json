@@ -1,0 +1,19 @@
+{
+  "name": "emphasize-words",
+  "version": "1.0.0",
+  "description": "文字标红",
+  "main": "emphasize-words.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liuqiannanyezi/emphasize-world.js.git"
+  },
+  "author": "liuqiannanyezi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/liuqiannanyezi/emphasize-world.js/issues"
+  },
+  "homepage": "https://github.com/liuqiannanyezi/emphasize-world.js#readme"
+}
